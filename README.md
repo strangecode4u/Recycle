@@ -1,4 +1,4 @@
-### A Tool for bash developers to save much time.
+### The tool to save bash developer's time.
 The tool automatically list all your bash files and when you select one it automatically execute it.
 ### Command
 * `For Termux User`
